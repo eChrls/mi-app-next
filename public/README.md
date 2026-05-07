@@ -18,7 +18,6 @@ Este proyecto es una API sencilla construida con **Next.js** que proporciona tre
    ```bash
    npm install
    ```
-
 ## 🚀 Ejecución en local
 
 Para iniciar el servidor en desarrollo:
